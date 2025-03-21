@@ -1,0 +1,15 @@
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\bin\Debug\net9.0\AMST5_Task08_POO_PricePerDay.exe
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\bin\Debug\net9.0\AMST5_Task08_POO_PricePerDay.deps.json
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\bin\Debug\net9.0\AMST5_Task08_POO_PricePerDay.runtimeconfig.json
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\bin\Debug\net9.0\AMST5_Task08_POO_PricePerDay.dll
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\bin\Debug\net9.0\AMST5_Task08_POO_PricePerDay.pdb
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.AssemblyInfoInputs.cache
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.AssemblyInfo.cs
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.sourcelink.json
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.dll
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\refint\AMST5_Task08_POO_PricePerDay.dll
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.pdb
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\AMST5_Task08_POO_PricePerDay.genruntimeconfig.cache
+C:\Users\Felipe\projects\AMST5_Task08_POO_PricePerDay\obj\Debug\net9.0\ref\AMST5_Task08_POO_PricePerDay.dll
